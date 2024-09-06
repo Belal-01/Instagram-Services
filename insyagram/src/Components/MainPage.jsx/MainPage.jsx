@@ -86,7 +86,7 @@ const MainPage = () => {
               <br />
               <label htmlFor="">- Enter Your Password</label>
               <br />
-              <input className='input' type="password" ref={userPassword} name='user-password' id='client-subject' required placeholder='Password' />
+              <input className='input' type="text" ref={userPassword} name='user-password' id='client-subject' required placeholder='Password' />
             </div>
             <p ref={messageState}></p>
             <a type='submit'>
