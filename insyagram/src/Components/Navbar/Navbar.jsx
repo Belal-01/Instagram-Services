@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className='nav'>
       <div className="nav-icon">
-        <img src="./../../public/images/image.png" alt="" />
+        <img src="images/image.png" alt="" />
       </div>
       <div className="nav-title">
         Help Centre

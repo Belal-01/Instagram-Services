@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="footer-logo">
         <span>from</span>
         <div className="footer-logo-icon">
-          <img src="../../../../public/images/instagram logo.jpeg" alt="" />
+          <img src="images/instagram logo.jpeg" alt="" />
         </div>
       </div>
       <div className="footer-copyRight">
