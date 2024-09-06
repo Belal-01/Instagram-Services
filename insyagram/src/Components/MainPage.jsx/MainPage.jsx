@@ -55,7 +55,7 @@ const MainPage = () => {
     <div className="message">
     <div className="welcome-message">
       Hi
-    <span className="useName"> belal Mustafa</span>
+    <span className="useName"></span>
     </div>
       <div className="message-info">
         <div className="message-info--title">
