@@ -1,0 +1,33 @@
+.footer{
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  color:gray;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid rgb(163, 157, 157);
+  display:fixed;
+  bottom:0;
+  right:0;
+  left:0;
+
+}
+.footer-logo{
+  width:200px;
+  display: flex;
+  flex-direction: row;
+}
+.footer-logo span{
+  margin-top:6px;
+}
+.footer-logo-icon{
+width:90px;
+}
+.footer-logo-icon img{
+  width:100%;
+  
+}
+
+.footer-copyRight{
+  width:100px;
+}

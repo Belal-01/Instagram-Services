@@ -1,0 +1,47 @@
+.main-title{
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.message{
+  background-color: #ebdfdf86;
+  border-radius: 5px;
+  margin:20px 5px;
+  padding:15px 10px;
+}
+.welcome-message{
+  font-size: 18px;
+  font-weight:700;
+}
+.message-info{
+  padding-left: 10px;
+}
+.message-info--title{
+  padding:10px 0;
+  font-size: 17px;
+}
+.message-info--login--title{
+  font-weight: 700;
+}
+.message-info--warning{
+  padding:10px 0;
+}
+.instagram__form--email input{
+  padding:8px;
+  border-radius: 5px;
+  border:1px solid gray;
+  margin:5px 0 10px 0 ;
+}
+.instagram__form button{
+  background-color: rgb(34, 110, 252);
+  font-size: 16px;
+  color:white;
+  border:none;
+  padding:8px 30px;
+  border-radius: 15px;
+}
+.instagram__form button:hover{
+  box-shadow: 0px 2px 5px rgba(0 ,0,0,0.5);
+}
+.message-info-footer{
+  margin-top:15px;
+}
